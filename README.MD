@@ -116,9 +116,6 @@ Basta alterar MODEL_NAME em config/settings.py. Camada final é adaptada para NU
 - DataLoader lento: Ajuste NUM_WORKERS e PREFETCH_FACTOR.
 - TensorBoard vazio: Verifique se a pasta runs/ foi gerada após pelo menos 1 época.
 
-## Licença
-Uso educacional/pesquisa. Verifique a licença do dataset original antes de uso comercial.
-
 ## Referências
 Dataset: https://huggingface.co/datasets/Falah/Alzheimer_MRI
 Modelos: TorchVision Model Zoo
